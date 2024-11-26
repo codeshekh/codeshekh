@@ -1,11 +1,11 @@
 # 💫 About Me  
 **👋 Hi, I'm Abhishek Pandey!**  
 
-- 🔭 **Currently working on:** Task Gen_AI 🧠💻  
+- 🔭 **Currently working on:** Codeshek 🧠💻  
 - 🌱 **Learning:** Generative AI, Backend, and Frontend Development 🤖🌐  
 - 💬 **Ask me about:** Web Development, Generative AI, and APIs 💡📚  
 - 📫 **How to reach me:** [pandeyabhishek1518@gmail.com](mailto:pandeyabhishek1518@gmail.com) 📩  
-- ⚡ **Fun fact:** I love to box and work out! 🥊💪  
+- ⚡ **Fun fact:** I love to box and workout! 🥊💪  
 
 ![Ben 10](https://media.tenor.com/Frh4MuD0A_UAAAAC/ben10-alien-x.gif)  
 
@@ -22,18 +22,18 @@
 ---
 
 ## 💻 Tech Stack  
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-- ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  
-- ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)  
-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)  
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-- ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)  
-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
-- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)  
+- [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  ]
+- [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)]  
+- [![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)]  
+- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)]  
+- [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)]  
+- [![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)]  
+- [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)]  
+- [![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)]  
+- [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)] 
+- [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)]  
+- [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)]
+- [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ] 
 
 ---
 
