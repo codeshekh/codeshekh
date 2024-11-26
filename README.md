@@ -1,15 +1,17 @@
-# 💫 About Me:
-- 🔭 **Currently working on:** Task Gen_AI 🧠💻<br>
-- 🌱 **Learning:** Generative AI, Backend, and Frontend Development 🤖🌐<br>
-- 💬 **Ask me about:** Web Development, Generative AI, and APIs 💡📚<br>
-- 📫 **How to reach me:** [pandeyabhishek1518@gmail.com](mailto:pandeyabhishek1518@gmail.com) 📩<br>
+# 💫 About Me  
+**👋 Hi, I'm Abhishek Pandey!**  
+
+- 🔭 **Currently working on:** Task Gen_AI 🧠💻  
+- 🌱 **Learning:** Generative AI, Backend, and Frontend Development 🤖🌐  
+- 💬 **Ask me about:** Web Development, Generative AI, and APIs 💡📚  
+- 📫 **How to reach me:** [pandeyabhishek1518@gmail.com](mailto:pandeyabhishek1518@gmail.com) 📩  
 - ⚡ **Fun fact:** I love to box and work out! 🥊💪  
 
-![Ben 10](https://media.giphy.com/media/8ZkzVyFsi2e0I/giphy.gif)  
+![Ben 10](https://media.tenor.com/Frh4MuD0A_UAAAAC/ben10-alien-x.gif)  
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/codeshekh/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pandey-272a882a9/)  
 [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?logo=hashnode&logoColor=white)](https://hashnode.com/@codeshek)  
@@ -19,7 +21,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack  
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
@@ -35,35 +37,36 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codeshekh&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeshekh&theme=graywhite&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeshekh&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=codeshekh&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=codeshekh&theme=graywhite&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeshekh&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  
 
 ---
 
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=codeshekh&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=codeshekh&theme=dracula&no-frame=true&no-bg=true&margin-w=4)  
 
 ---
 
-### ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
 ---
 
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=codeshekh&limit=5&theme=default&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo  
+![](https://github-contributor-stats.vercel.app/api?username=codeshekh&limit=5&theme=default&combine_all_yearly_contributions=true)  
 
 ---
 
-## 🐍 Contribution Snake:
-![Snake animation](https://github.com/codeshekh/codeshekh/blob/output/github-contribution-grid-snake.svg)
-
----
+## 🐍 Contribution Snake  
+```html
+<div align="center">
+  <img src="https://github.com/codeshekh/codeshekh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=codeshekh&icon=2&color=12)](https://visitcount.itsvg.in)
-
+```
 ---
 
 ## 💰 Support Me:
