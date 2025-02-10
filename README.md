@@ -4,7 +4,7 @@
 - 🔭 **Currently working on:** Codeshek 🧠💻  
 - 🌱 **Learning:** Generative AI, Backend, and Frontend Development 🤖🌐  
 - 💬 **Ask me about:** Web Development, Generative AI, and APIs 💡📚  
-- 📫 **How to reach me:** [pandeyabhishek1518@gmail.com](mailto:pandeyabhishek1518@gmail.com) 📩  
+- 📫 **How to reach me:** [codeshekh@gmail.com](mailto:codeshekh@gmail.com) 📩  
 - ⚡ **Fun fact:** I love to box and workout! 🥊💪  
 
 ![Ben 10](https://media.tenor.com/Frh4MuD0A_UAAAAC/ben10-alien-x.gif)  
